@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina95138&show_icons=true&theme=tokyonight)
+![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina95138&show_icons=true&theme=tokyonight)
 
 
 <!--
