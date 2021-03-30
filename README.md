@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning about Machine Learning, Information Retrieval, Design of Operating Systems, and Compiler Design
-- - 🔭 I’m currently working on making a VR game
+- 🔭 I’m currently working on making a VR game
 
 ![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina95138&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristina95138&show_icons=true&theme=tokyonight)
