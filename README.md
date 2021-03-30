@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina95138)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina95138&show_icons=true&theme=radical)
+
 
 <!--
 **cristina95138/cristina95138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
