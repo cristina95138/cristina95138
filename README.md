@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on making a VR game
 
 [![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina95138&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristina95138&layout=compact&show_icons=true&theme=tokyonight&langs_count=8&exclude_repo=CS105_Stock_News_Analysis,CS171_MachineLearning&hide=GDB,CMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristina95138&layout=compact&show_icons=true&theme=tokyonight&langs_count=8&exclude_repo=CS105_Stock_News_Analysis&hide=GDB,CMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cristina95138/cristina95138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
