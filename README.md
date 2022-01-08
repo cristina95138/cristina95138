@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on making a VR game
 
 [Cristina's Website](https://cristinalawson.com)
+markdown: kramdown
 
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 
