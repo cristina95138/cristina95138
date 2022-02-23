@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning about Virtual Reality, Parallel Programming, and Information Retrieval and Web Search
+- 🌱 I’m currently learning about Operating Systems, Parallel Programming, and Information Retrieval and Web Search
 - 🔭 I’m currently working on making a VR game
 
 [Cristina's Website](https://cristinalawson.com)
