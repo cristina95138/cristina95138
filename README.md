@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning about Operating Systems, Parallel Programming, and Information Retrieval and Web Search
+- 🌱 I’m currently working at Intel as an AI/ML Software Engineer
 - 🔭 I’m currently working on making a VR game
 
 [Cristina's Website](https://cristinalawson.com)
